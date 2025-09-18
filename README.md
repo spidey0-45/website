@@ -23,7 +23,7 @@
             <img src="./images/7.jpg" alt="">
             <img src="./images/8.jpg" alt="">
             <img src="./images/9.jpg" alt="">
-            <p>Happy Birthday Rashmii</p>
+            <p>Happy Birthday Dear</p>
         </div>
         <div id="ground"></div>
     </div>
